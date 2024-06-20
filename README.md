@@ -37,8 +37,8 @@ docker_mcq_project_with_openai/
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
-   cd docker_mcq_project_with_openai
+   git clone git@github.com:fahdi/docker-python-quiz-openai.git
+   cd docker-python-quiz-openai
    ```
 
 2. Replace `your_openai_api_key_here` in `docker-compose.yml` with your actual OpenAI API key.
